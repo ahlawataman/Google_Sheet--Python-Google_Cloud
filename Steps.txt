@@ -1,0 +1,16 @@
+################################################################
+################################################################
+
+Steps To Connect - 
+
+1. Create google empty sheet by going to sheets.google.com
+2. Go to console.developers.google.com
+3. Create new project and enable google drive & google sheet APIs.
+4. Create service account from google sheets API and download the API key in json format (keep it safe).
+5. Move the key to project folder and run the python script.
+6. Enjoy :)
+
+################################################################
+################################################################
+
+Do like if it helps you out 🙌🙌(●'◡'●)
